@@ -213,7 +213,7 @@ class pathFindingProject extends Component {
         <div>
             <button className="dijbtn" onClick={()=>this.visualizeDijkstra()}>Visualize Dijkstra Algorithm!</button>
             <button className="dijbtn" onClick={()=>this.visualizedfs()}>Visualize DFS</button>
-            <button className="dijbtn" >Visualize BFS</button>
+            <button className="dijbtn"onClick={()=>this.visualizeDijkstra()}>Visualize BFS</button>
       <div className="grid">
         {nodes.map((row, rowindx) => {
           return (

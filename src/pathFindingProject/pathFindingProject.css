@@ -1,0 +1,28 @@
+.grid {
+    
+    margin: 100px 0 0;
+    background-color: brown;
+    padding-left: 45px;
+  }
+  .colsetter{
+    float: left;
+
+  }
+  
+  .dijbtn{
+    background-color: rgb(8, 22, 85);
+    color: rgb(253, 253, 253);
+    font-size: larger;
+    font-family: sans-serif;
+    border-color: darkgoldenrod;
+    display: inline;
+    padding-left: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    
+  }
+  
+  
